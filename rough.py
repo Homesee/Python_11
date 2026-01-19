@@ -9,4 +9,4 @@ elif(a==0):
 else:
     print("this is negative number")
 
-print("this is our python class")
+print("this is our python class ok")
